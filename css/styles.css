@@ -622,7 +622,7 @@ footer .container {
   margin-bottom: 16px;
 }
 
-.modal-input-group:not(:last-child) {
+.modal-input-group:not(.textarea-wrapper) {
   margin-bottom: 8px;
 }
 
